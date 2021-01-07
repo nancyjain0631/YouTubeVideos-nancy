@@ -8,14 +8,13 @@ class SearchBar extends React.Component{
     
     onFormSubmit=(event)=>{
         event.prevetDefault();
+        //TODO: Make sure we call callback from the parent component
     };
     render(){
         return(
-            
             <div className="search-bar ui segment">
                 <form onSubmit={this.onFormSubmit} className="ui form">
-                    
-                        <div className="field">
+                    <div className="field">
                             <label>Video Search</label>
                             <input 
                             type="text" 
@@ -23,7 +22,6 @@ class SearchBar extends React.Component{
                             onChange={this.onInputChange}
                             />
                         </div>
-                    
                 </form>
             </div>
             
