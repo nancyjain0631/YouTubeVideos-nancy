@@ -1,3 +1,9 @@
+# YouTube Videos
+
+### In this website, a user will enter a search term on the SearchBar such as "Cars" and hit ENTER key. A list of videos will appear on the Right Hand Side of the screen and when the user clicks on one of the video, it will be featured on the Left Hand Side of the screen with some title and description at the bottom of the video. This is done with the help of Youtube Public API.
+
+### This website is live here: https://nancyjain0631.github.io/YouTubeVideos-nancy/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Made with ❤️ by Nancy
